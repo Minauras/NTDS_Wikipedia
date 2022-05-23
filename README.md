@@ -15,7 +15,7 @@ We used the ntds_2018 environment (found here: https://github.com/mdeff/ntds_201
 
 
 ## Authors
-- [Rémi Clerc](https://github.com/Minauras)
+- [Nara Clerc](https://github.com/Minauras)
 - David Sanchez del Rio
 - [Patrick Ley](https://github.com/okhofsk)
 - Jordan Metz
